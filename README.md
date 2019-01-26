@@ -5,3 +5,7 @@ ArrayList
 LinkedList
 
 Maps
+
+TreeMaps
+TreeHash
+TreeSet
